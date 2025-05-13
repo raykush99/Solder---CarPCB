@@ -13,7 +13,7 @@ Push button x2
 ![image](https://github.com/user-attachments/assets/524b8c2c-f0a8-4cea-b48b-e38ffbea6033)
 ![image](https://github.com/user-attachments/assets/392a8894-13e2-4bc2-ae91-9f8cad9c879d)
 ![image](https://github.com/user-attachments/assets/04acd1be-c262-4e34-b712-755cdd5b5bed)
-![image](https://github.com/user-attachments/assets/e111b649-8e29-492d-ac8b-37c6db1d2afe)
-![image](https://github.com/user-attachments/assets/cd89fba1-e2e3-4111-8817-c3fde59c4eef)
+![image](https://github.com/user-attachments/assets/51e7bc33-785b-49bf-b378-6e706fd76354)
+![image](https://github.com/user-attachments/assets/d65ffb8e-1ae3-492f-9966-eacce6747936)
 
 Slack Username: Kush Ray
